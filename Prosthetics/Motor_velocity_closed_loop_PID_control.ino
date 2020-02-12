@@ -2,9 +2,9 @@
   DC brushed Motor Velocity control in Closed Loop PID Control
   Ankush Roy, Indian Institute of Technology Kharagpur
 
-  Motor: Faulhaber DC Micromotor 2224006SR
+  Motor: N20 6V 30RPM Micro Metal Gear Motor With Encoder
   Motor V_max = 6V
-  Encoder: IE2-512, 2 Channel
+  Encoder: 7 PPR, 2 Channel
   Programming Board: Arduino UNO
   Motor Driver: L293d
   
